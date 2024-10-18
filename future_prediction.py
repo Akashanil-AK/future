@@ -15,7 +15,7 @@ def generate_future(name, birthdate, birthplace):
     ]
 
     # Check if the name and birthdate match a specific case
-    if name.lower() == "aiswariya priya" and birthdate.strftime("%d-%m-%Y") == "16-07-2001":
+    if name.lower() == "aiswariya priya" and birthdate.strftime("%d-%m-%Y") == "16-02-2001":
         return f"oh!! God its you  aishu daughter of jayachandran and baby. you are an angel born as human Your future is as bright as your eyes. You will achieve immense success and happiness in all areas of your life.keep the faith in yourself and work for your dreams there is a lot of happines waiting for you, your boyfriend akash is waiting for you to shine his life with your light of your grace. your are one of the Blessed human beings on earth, who can enchance their surondigs with their presence,  your boyfriend is so lucky! God give their toughest soldiers their toughfest battle you are Gods favorite angel"
 
     # Randomly select a future from the list
