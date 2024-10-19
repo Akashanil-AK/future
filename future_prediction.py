@@ -16,7 +16,7 @@ def generate_future(name, birthdate, birthplace):
     ]
 
     # Check if the name and birthdate match a specific case for Aiswariya Priya
-    if name.lower() == "aiswariya priya" and birthdate.strftime("%d-%m-%Y") == "16-02-2001":
+    if name.lower() == "aiswariyapriya" and birthdate.strftime("%d-%m-%Y") == "16-02-2001":
         st.balloons()  # Special celebration for Aiswariya Priya
         return f"""
         🌟 Oh!! God, it's you, Aishu, daughter of Jayachandran and Baby! 🌟
